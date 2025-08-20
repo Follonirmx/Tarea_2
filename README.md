@@ -53,7 +53,7 @@ Un computador cuántico está compuesto por varias partes:
   - `CNOT`  
   - `T`, entre otras.  
 
----
+
 ![PC](img/descarga.jpeg)
 
 ---
@@ -114,5 +114,92 @@ Usa hardware tradicional pero simula el comportamiento neuronal (más lenta, per
 Hardware diseñado específicamente con neuronas y sinapsis electrónicas. Ejemplo: Loihi, TrueNorth.
 
 **Basada en memristores y dispositivos emergentes:**
-Tecnologías que permiten que la memoria y el procesamiento ocurran en el mismo lugar (similar al cerebro).
+Tecnologías que permiten que la memoria y el procesamiento ocurran en el mismo lugar (similar al cerebro)
+
+
+![Neuro](img/Neuro.jpeg)
+
+
+---
+# 📘 Computación No Convencional (Puntos 3, 4 y 5)
+
+---
+
+## 🔶 3. Ordenador Biológico
+
+![Ordenador Biológico](img/OrdenadorB.jpeg)
+
+### 🔹 ¿Qué es un ordenador biológico?
+Un **ordenador biológico** utiliza **sistemas vivos o moléculas biológicas** (como ADN, ARN o proteínas) para procesar información.  
+Se basa en la biología molecular y la biotecnología para ejecutar cálculos y resolver problemas.  
+
+### 🔹 Arquitectura y Tipos
+- **Computación basada en ADN:** utiliza cadenas de ADN para almacenar y procesar información (Leonard Adleman, 1994).  
+- **Computación con proteínas:** emplea proteínas para realizar interacciones moleculares que representen operaciones lógicas.  
+- **Computación celular:** usa células vivas modificadas genéticamente para realizar cálculos.  
+
+### 🔹 Principales Hitos
+- **1994:** Leonard Adleman resuelve un problema matemático con ADN.  
+- **2002:** Creación de la primera "compuerta lógica" dentro de una célula viva.  
+- **2017:** Investigaciones sobre biocomputación para diagnóstico médico y biología sintética.  
+
+### ✅ Ventajas
+- Alta densidad de información (1 gramo de ADN puede almacenar hasta 215 PB).  
+- Posibilidad de integración con procesos biológicos.  
+- Bajo consumo energético.  
+
+### ❌ Desventajas
+- Velocidad de procesamiento baja comparada con sistemas electrónicos.  
+- Alta complejidad experimental.  
+- Tecnología en fase de laboratorio.  
+
+---
+
+## 🟩 4. Computación Heterogénea
+
+
+### 🔹 ¿Qué es?
+La **computación heterogénea** combina distintos tipos de procesadores en un mismo sistema (CPU, GPU, FPGA, ASICs, TPUs) para aprovechar lo mejor de cada uno en tareas específicas.  
+
+### 🔹 Historia
+- **Década de 2000:** auge del uso de GPUs para acelerar gráficos y cálculos científicos.  
+- **2010s:** integración de FPGAs y ASICs en servidores y dispositivos de IA.  
+- **Hoy en día:** se usa ampliamente en centros de datos, inteligencia artificial, big data y simulaciones.  
+
+### ✅ Ventajas
+- Mejor rendimiento en aplicaciones específicas.  
+- Mayor eficiencia energética.  
+- Permite aprovechar arquitecturas especializadas.  
+
+### ❌ Desventajas
+- Mayor complejidad de programación.  
+- Requiere software especializado (CUDA, OpenCL, etc.).  
+- Costos de integración y mantenimiento.  
+
+---
+
+## ⚫ 5. Computación de Borde (Edge Computing)
+
+![Edge Computing](img/ComputacionE.jpeg)
+
+### 🔹 ¿Qué es?
+La **computación de borde** es un paradigma donde el procesamiento de datos ocurre **cerca de la fuente** que los genera (sensores, IoT, dispositivos móviles) en lugar de depender de servidores en la nube.  
+
+### 🔹 Historia
+- **2000s:** inicio con redes de telecomunicaciones y dispositivos móviles.  
+- **2010s:** auge con el Internet de las Cosas (IoT).  
+- **Hoy en día:** adoptada en 5G, ciudades inteligentes, autos autónomos, salud conectada.  
+
+### ✅ Ventajas
+- Menor latencia (procesamiento en tiempo real).  
+- Menor consumo de ancho de banda.  
+- Más seguridad y privacidad (los datos no siempre salen del dispositivo).  
+- Ideal para aplicaciones críticas como autos autónomos, medicina o fábricas inteligentes.  
+
+### ❌ Desventajas
+- Limitaciones en capacidad de cómputo en los dispositivos.  
+- Complejidad de gestión en redes distribuidas.  
+- Posibles vulnerabilidades de seguridad física en dispositivos de borde.  
+
+---
 
