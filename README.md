@@ -54,5 +54,4 @@ Un computador cuántico está compuesto por varias partes:
   - `T`, entre otras.  
 
 ---
-![Imagen pc](https://www.google.com/imgres?q=computador%20cuantico&imgurl=https%3A%2F%2Fwww.scimagoepi.com%2Fwp-content%2Fuploads%2F2024%2F12%2Fordenador-cuantico.jpg&imgrefurl=https%3A%2F%2Fwww.scimagoepi.com%2Fel-ordenador-cuantico-hecho-realidad-por-google%2F&docid=siRPvD9jzMoPMM&tbnid=BU0dJSOt5VzfmM&vet=12ahUKEwiX3v_FwJqPAxW4TDABHWMUDnMQM3oECBQQAA..i&w=374&h=500&hcb=2&ved=2ahUKEwiX3v_FwJqPAxW4TDABHWMUDnMQM3oECBQQAA)
 
