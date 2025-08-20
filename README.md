@@ -54,4 +54,6 @@ Un computador cuántico está compuesto por varias partes:
   - `T`, entre otras.  
 
 ---
+![PC](img/descarga.jpeg)
+
 
