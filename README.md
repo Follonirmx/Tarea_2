@@ -56,4 +56,63 @@ Un computador cuántico está compuesto por varias partes:
 ---
 ![PC](img/descarga.jpeg)
 
+---
+## 📘 Computación Neuromórfica
+## 🔹 1. ¿Qué es un Computador Neuromórfico?
+
+Un computador neuromórfico es un sistema diseñado para imitar la forma en que funciona el cerebro humano, tanto en la arquitectura de hardware como en el procesamiento de información.
+Utiliza redes neuronales artificiales implementadas en hardware especializado que consumen muy poca energía y son muy eficientes en tareas como visión artificial, reconocimiento de patrones y aprendizaje autónomo.
+
+## 🔹 2. Arquitectura y Funcionamiento
+
+La arquitectura neuromórfica está inspirada en el sistema nervioso biológico.
+
+## Componentes principales:
+
+-  **Neuronas artificiales** →  unidades de cómputo que procesan señales.
+
+-**Sinapsis electrónicas** →  conexiones que ajustan la transmisión de señales (similar al aprendizaje).
+
+-**Spikes (impulsos eléctricos)** →  la información se transmite como pulsos discretos, imitando el sistema nervioso.
+
+## Funcionamiento:
+
+Procesa la información de manera paralela y distribuida, al igual que el cerebro.
+
+Emplea comunicación basada en eventos (spike-based), lo que reduce el consumo energético.
+
+### Ventajas:
+-✅ Alta eficiencia energética.
+-✅ Capacidad de aprendizaje autónomo.
+-✅ Ideal para tareas de IA en tiempo real.
+-✅ Escalabilidad para sistemas masivos.
+
+### Desventajas:
+-❌ Tecnología en desarrollo, no está madura.
+-❌ Difícil de programar (no usa los lenguajes clásicos).
+-❌ Hardware especializado y costoso.
+-❌ No sustituye aún a los computadores tradicionales.
+
+## 🔹 3. Hardware utilizado en la Computación Neuromórfica
+
+-Existen varios chips neuromórficos desarrollados por diferentes empresas y laboratorios:
+
+-IBM TrueNorth (2014): chip con 1 millón de neuronas y 256 millones de sinapsis.
+
+-Intel Loihi (2017): chip neuromórfico con capacidad de aprendizaje autónomo en hardware.
+
+-SpiNNaker (Univ. de Manchester): arquitectura que simula el comportamiento de millones de neuronas.
+
+-BrainScaleS (Heidelberg Univ.): plataforma para estudiar la plasticidad sináptica.
+
+## 🔹 4. Tipos de Computación Neuromórfica
+
+**Basada en simulaciones digitales:**
+Usa hardware tradicional pero simula el comportamiento neuronal (más lenta, pero flexible).
+
+**Basada en chips neuromórficos dedicados:**
+Hardware diseñado específicamente con neuronas y sinapsis electrónicas. Ejemplo: Loihi, TrueNorth.
+
+**Basada en memristores y dispositivos emergentes:**
+Tecnologías que permiten que la memoria y el procesamiento ocurran en el mismo lugar (similar al cerebro).
 
