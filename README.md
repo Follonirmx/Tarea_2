@@ -203,3 +203,14 @@ La **computación de borde** es un paradigma donde el procesamiento de datos ocu
 
 ---
 
+# 📚 Bibliografía
+- Merolla, P. A., et al. (2014). *A million spiking-neuron integrated circuit with a scalable communication network and interface*. Science, 345(6197), 668–673. https://doi.org/10.1126/science.1254642  
+
+- Satyanarayanan, M. (2017). *The emergence of edge computing*. Computer, 50(1), 30–39. https://doi.org/10.1109/MC.2017.9  
+
+- Shi, W., Cao, J., Zhang, Q., Li, Y., & Xu, L. (2016). *Edge computing: Vision and challenges*. IEEE Internet of Things Journal, 3(5), 637–646. https://doi.org/10.1109/JIOT.2016.2579198  
+
+- Sze, V., Chen, Y.-H., Yang, T.-J., & Emer, J. S. (2017). *Efficient processing of deep neural networks: A tutorial and survey*. Proceedings of the IEEE, 105(12), 2295–2329. https://doi.org/10.1109/JPROC.2017.2761740
+
+- - Topol, E. J. (2019). *High-performance medicine: the convergence of human and artificial intelligence*. Nature Medicine, 25, 44–56. https://doi.org/10.1038/s41591-018-0300-7  
+
